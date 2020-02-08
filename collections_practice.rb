@@ -67,7 +67,7 @@ def add_s(array)
     if index == 1
       element
     else
-      element.push('s')
+      element += "s"
     end
   }
   
